@@ -5,7 +5,7 @@ ruby '2.7.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.5'
-
+gem 'bcrypt'
 gem 'bootstrap-sass', '3.4.1'
 # Use mysql as the database for Active Record
 gem 'mysql2', '~> 0.5'
