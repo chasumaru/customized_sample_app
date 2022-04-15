@@ -233,10 +233,10 @@ DEPENDENCIES
   bcrypt
   bootsnap (>= 1.4.4)
   bootstrap-sass (= 3.4.1)
-  bootstrap-will_paginate
+  bootstrap-will_paginate (= 1.0.0)
   byebug
   capybara (>= 3.26)
-  faker
+  faker (= 2.20.0)
   jbuilder (~> 2.7)
   listen (~> 3.3)
   minitest-reporters
@@ -253,7 +253,7 @@ DEPENDENCIES
   web-console (>= 4.1.0)
   webdrivers
   webpacker (~> 5.0)
-  will_paginate
+  will_paginate (= 3.3.1)
 
 RUBY VERSION
    ruby 2.7.1p83
