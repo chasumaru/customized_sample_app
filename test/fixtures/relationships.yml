@@ -1,0 +1,15 @@
+# railsにより内部で外部キーと関連付けられる
+one:
+  follower: michael
+  followed: lana
+two:
+  follower: michael
+  followed: malory
+
+three:
+  follower: lana
+  followed: michael
+
+four:
+  follower: archer
+  followed: michael
